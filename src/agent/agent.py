@@ -52,7 +52,7 @@ class ManuelitaAgent:
             
             # Structured Tool
             self.structured_tool = StructuredDataTool(
-                data_file="tools/data/faq_structured.json"
+                data_file="src/tools/data/faq_structured.json"
             )
             
             # LLM
