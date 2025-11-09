@@ -226,14 +226,7 @@ Este proyecto es privado y propiedad de Manuelita.
 
 ## 👥 Autores
 
-- **Esteban** - Desarrollo inicial
+- **Esteban Arroyave López**
+- **Manuel Luna Alegría** 
 
-## 📞 Soporte
-
-Para soporte, contacta a través de los canales oficiales de Manuelita:
-- 📞 Centro Corporativo: (+57 602) 889 1444
-- 🌐 Web: https://www.manuelita.com
-
----
-
-**Desarrollado con ❤️ para Manuelita** 🌿
+**Desarrollado con ❤️ pensando en Manuelita S.A., en el marco del curso Tecnicas avanzadas con LLM** 🌿
